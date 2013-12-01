@@ -1,0 +1,2 @@
+~/oeta/oeta -C -r 8000 | aplay -r 8k -f S16_LE
+
