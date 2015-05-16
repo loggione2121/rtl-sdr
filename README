@@ -4,6 +4,6 @@ For more details please see: http://tubysworld.blogspot.sg
 
 - oeta.c contains the core of the changes in this fork
 - run build_oeta to compile. Should you receive any warnings please download the necessary libraries. They are no different to what you would need to compile rtl_sdr
-- run start to launch. Usually you would want to have this run automatically upon boot if you want a standalone receiver: just copy .bash_profile .xinitrc_normal .xinitrc_server in root folder.
+- run start to launch. Usually you would want to have this run automatically upon boot if you want a standalone receiver: just copy .bash_profile .xinitrc_normal .xinitrc_server in root folder and rename rtl-sdr to oeta.
 
 For hardware connectivity please refer to the blog post
