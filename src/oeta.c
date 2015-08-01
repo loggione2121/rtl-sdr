@@ -1004,7 +1004,7 @@ static void draw_text(cairo_t *cr)
 
 	
 	// Display upper and lower frequencies
-	cairo_set_font_size(cr, 8);
+	cairo_set_font_size(cr, 10);
 	cairo_set_source_rgba(cr, 0, 0.3, 0.7, 0.8);
 
 	// Freq lower
